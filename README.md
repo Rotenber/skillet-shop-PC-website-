@@ -1,6 +1,6 @@
 # 🍳 Skillet Shop - Cookware E-commerce Website
 
-![Skillet Shop Preview](assets/images/preview.jpg)
+![Skillet Shop Preview](preview.png)
 
 A modern, elegant e-commerce website for premium cookware products. Designed with a focus on user experience and visual appeal.
 
